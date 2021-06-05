@@ -1,4 +1,4 @@
-Agrego el titulo en la rama titulo
+CAMBIO EL TITULO Y BORRO EL RESTO
 
 Este archivo se usa para practicar Git en el marco del curso de platzi.
 
@@ -7,3 +7,4 @@ Incluimos un segundo parrafo para hacer el merge desde la rama master
 Evidenciamos que tener textos en las mismas lineas crea conflictos ahora deberia hacer merge sin problemas
 
 Otra modificacion en master
+
