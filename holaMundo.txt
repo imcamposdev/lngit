@@ -1,1 +1,3 @@
-Este archivo se usa para practicar Git en el marco del curso de platzi
+Este archivo se usa para practicar Git en el marco del curso de platzi.
+
+Incluimos un segundo parrafo para hacer el merge desde la rama master
