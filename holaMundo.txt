@@ -1,0 +1,1 @@
+Este archivo se usa para practicar Git en el marco del curso de platzi
